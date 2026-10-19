@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.7.8 — 2026-10-19
+
+- **Fix: device rebooted when opening WiFi or Bluetooth page 2** — the
+  page-2 icon lists were shorter than their menus, so the renderer drew a
+  null icon. All icon slots filled and icon drawing is now null-guarded
+
 ## v1.7.7 — 2026-10-19
 
 - Boot splash now finishes with the **M5SHARK shark logo**: scan-bar wipe
