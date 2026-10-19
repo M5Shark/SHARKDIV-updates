@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.7.21 — 2026-10-20
+
+- **Removed the jamming tools** (BLE Jammer, SubGHz Jammer) from the menus —
+  CW interference transmitters cannot legally be sold or operated (FCC/CE)
+  and were written for a 3-radio board this hardware does not have. The
+  defensive **Jamming Detector** stays; the SDR Spectrum, Link Test, sniffer
+  and scanner tools cover analysis and testing the right way
+
 ## v1.7.20 — 2026-10-20
 
 - **Fix: SDR Spectrum hid the bottom buttons** — the signal log drew over
