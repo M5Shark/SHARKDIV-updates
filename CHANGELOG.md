@@ -1,5 +1,12 @@
 # Changelog
 
+## v1.7.6 — 2026-10-19
+
+- New **QR Code** (Tools): render scannable QR codes on screen — presets for
+  the shop and update page, or type any text over USB serial (live preview)
+- New **Channel Analyzer** (Tools): per-channel 2.4 GHz airtime meter — see
+  which WiFi channels are crowded before you deploy, shortest bar = clearest
+
 ## v1.7.5 — 2026-10-19
 
 - New **BLE Link Test** (Bluetooth page 2): pick a nearby BLE device and
