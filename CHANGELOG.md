@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.7.9 — 2026-10-19
+
+- **Fix: tools that could trap you inside (Flock Hunter, RFID, GPS, ...)**
+  — every tool now gets a touch bar with a working **Exit**, and quick taps
+  register reliably (350 ms latch) instead of being missed by slow loops
+- Boot mark now follows the theme like M5SHARK: Dark/Shark = ctOS skull,
+  Hacker = horned demon, Light = grey alien
+
 ## v1.7.8 — 2026-10-19
 
 - **Fix: device rebooted when opening WiFi or Bluetooth page 2** — the
