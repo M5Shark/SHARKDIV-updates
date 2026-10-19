@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.7.15 — 2026-10-19
+
+- All of v1.7.14 (RF Spectrum waterfall, TV Power, IR Repeater) **plus a
+  fix**: tapping Replay Attack on the SubGHz menu had lost its startup
+  lines in v1.7.14 — restored
+
 ## v1.7.14 — 2026-10-19
 
 - New **RF Spectrum** (SubGHz → Spectrum): CC1101 swept spectrum analyzer
