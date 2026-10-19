@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.7.23 — 2026-10-20
+
+- **App builder support**: user apps now register through a simple list —
+  one source file + one line — and appear in the Tools menu automatically
+  (no menu/dispatch editing). Demo App included as the template; the MCP
+  bridge can create, build, flash and run new apps end to end
+- Console-injected taps are one-shot, so automated navigation is reliable
+
 ## v1.7.22 — 2026-10-20
 
 - **Remote-test console** over USB serial: nav-bar taps can be injected and
