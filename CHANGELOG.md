@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.7.18 — 2026-10-20
+
+- **Fix: SDR Spectrum now really sweeps** — a library quirk retuned the
+  radio to its default frequency on every step, so the "sweep" measured one
+  frequency and the display stayed flat. Each step now tunes explicitly
+- SDR Spectrum checks for the CC1101 at open (says CC1101 NOT FOUND if the
+  radio is absent) and Exit works during the sweep
+
 ## v1.7.17 — 2026-10-20
 
 - **Touch-first input**: every tap on the on-screen nav bar is now latched,
