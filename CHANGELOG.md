@@ -1,5 +1,16 @@
 # Changelog
 
+## v1.7.5 — 2026-10-19
+
+- New **BLE Link Test** (Bluetooth page 2): pick a nearby BLE device and
+  watch its live link quality — packet delivery vs expected rate, RSSI
+  min/avg/max, worst dropout. Range-test your own trackers and headphones
+- New **RF Source Finder** (2.4 GHz menu): passive energy meter that ranks
+  the loudest 2.4 GHz channels and guides you toward the source with an
+  A/B spot compare
+- New games in Tools: **Snake** (nav pad steers) and **Reaction Test**
+- Fix: "BLE Spam" now launches from touch tap (was button-only)
+
 ## v1.7.4 — 2026-10-19
 
 - Battery indicator fix: reads the IP5306 fuel gauge over the full range
