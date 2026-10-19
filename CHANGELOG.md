@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.7.11 — 2026-10-19
+
+- **Fix: WiFi Radar and SSID Rotator did not open from a screen tap** —
+  their touch-dispatch entries were missing (physical-button path only);
+  every one of the 35 features now opens from both paths
+
 ## v1.7.10 — 2026-10-19
 
 - **Fix: WiFi Radar** showed no APs — a leftover background scan made every
