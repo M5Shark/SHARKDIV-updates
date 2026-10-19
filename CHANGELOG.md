@@ -1,5 +1,12 @@
 # Changelog
 
+## v1.7.10 — 2026-10-19
+
+- **Fix: WiFi Radar** showed no APs — a leftover background scan made every
+  scan return -1; the radio is now taken over cleanly and failed scans retry
+- **Fix: SSID Rotator** hotspot often never started — now forces AP mode
+  explicitly and reports AP FAILED instead of pretending to be on air
+
 ## v1.7.9 — 2026-10-19
 
 - **Fix: tools that could trap you inside (Flock Hunter, RFID, GPS, ...)**
