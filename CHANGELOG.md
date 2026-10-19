@@ -1,5 +1,17 @@
 # Changelog
 
+## v1.7.16 — 2026-10-19
+
+- **New boot animation**: the Skull Rain screen — the skull melts down the
+  display while green matrix rain falls and locks the second skull in
+- **New GPS Guard** (More → GPS): live jamming/spoofing anomaly monitor —
+  watches for signal loss after a healthy fix, impossible position jumps
+  and time walking backwards
+- **New Coordinates** (More → GPS): live position in decimal degrees,
+  D-M-S, Maidenhead grid square and maps format
+- The SubGHz spectrum tool is now labelled **SDR Spectrum** so it is easy
+  to find (it was already there — SubGHz → SDR Spectrum)
+
 ## v1.7.15 — 2026-10-19
 
 - All of v1.7.14 (RF Spectrum waterfall, TV Power, IR Repeater) **plus a
