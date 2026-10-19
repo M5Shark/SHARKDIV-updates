@@ -1,5 +1,12 @@
 # Changelog
 
+## v1.7.22 — 2026-10-20
+
+- **Remote-test console** over USB serial: nav-bar taps can be injected and
+  state/battery read back externally (single-letter commands), so the whole
+  device can be driven and verified by automated tooling; deterministic
+  single-step mode for tests
+
 ## v1.7.21 — 2026-10-20
 
 - **Removed the jamming tools** (BLE Jammer, SubGHz Jammer) from the menus —
