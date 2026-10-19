@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.7.17 — 2026-10-20
+
+- **Touch-first input**: every tap on the on-screen nav bar is now latched,
+  so quick taps always register no matter what the tool is doing — the
+  screen is the device's only input and it now behaves like it
+
 ## v1.7.16 — 2026-10-19
 
 - **New boot animation**: the Skull Rain screen — the skull melts down the
