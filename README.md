@@ -6,6 +6,10 @@ Official firmware releases for the **SHARKDIV** wireless multi-tool
 > **SHARKDIV hardware only.** This firmware is built for the SHARKDIV board
 > (ESP32-S3 / 16 MB). It will not work correctly on other boards.
 
+## Source code
+
+The firmware is open source (MIT): **[M5Shark/SHARKDIV-firmware](https://github.com/M5Shark/SHARKDIV-firmware)**
+
 ## Latest release
 
 **v1.7.23** — see [Releases](https://github.com/M5Shark/SHARKDIV-updates/releases)
