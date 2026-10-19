@@ -1,5 +1,15 @@
 # Changelog
 
+## v1.7.14 — 2026-10-19
+
+- New **RF Spectrum** (SubGHz → Spectrum): CC1101 swept spectrum analyzer
+  with live peak readout and a scrolling waterfall across the 315/433/868/915
+  ISM bands — the SDR-style view of everything talking around you
+- New **TV Power** (More → IR Remote): power codes for Samsung, LG, Sony,
+  Philips and Panasonic — fire one brand or ALL
+- New **IR Repeater** (More → IR Remote): loops the last captured IR code
+  every 2.5 s for receiver/range testing
+
 ## v1.7.13 — 2026-10-19
 
 - Boot art fix: the Skull Jaw is now drawn with its **real ASCII characters
