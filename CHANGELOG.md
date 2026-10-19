@@ -1,5 +1,12 @@
 # Changelog
 
+## v1.7.13 — 2026-10-19
+
+- Boot art fix: the Skull Jaw is now drawn with its **real ASCII characters
+  at true proportions** (the previous scaled mask distorted it into a blob)
+- The whole boot sequence is now **phosphor green** — art, chrome, wordmark
+  and logo reveal
+
 ## v1.7.12 — 2026-10-19
 
 - Boot mark replaced with the **ASCII Skull Jaw** art (the jaw-skull piece)
