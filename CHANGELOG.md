@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.7.7 — 2026-10-19
+
+- Boot splash now finishes with the **M5SHARK shark logo**: scan-bar wipe
+  reveal, bright pulse, then the SHARKDIV brand block with version
+- Full boot sequence: ctOS carrier-noise decode -> skull lock -> logo reveal
+
 ## v1.7.6 — 2026-10-19
 
 - New **QR Code** (Tools): render scannable QR codes on screen — presets for
