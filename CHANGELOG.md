@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.7.20 — 2026-10-20
+
+- **Fix: SDR Spectrum hid the bottom buttons** — the signal log drew over
+  the touch bar; the whole layout now fits above it (header / spectrum /
+  waterfall / detected-signals log, all in view)
+
 ## v1.7.19 — 2026-10-20
 
 - **SDR Spectrum rebuilt as a real analyzer**: amber peak-hold trace over
