@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.7.19 — 2026-10-20
+
+- **SDR Spectrum rebuilt as a real analyzer**: amber peak-hold trace over
+  the live spectrum, dBm scale and frequency axis, ×4/×16 zoom that follows
+  signal activity, sweeps-per-second readout, and a **DETECTED SIGNALS log**
+  — every burst recorded with frequency, strength and duration (and echoed
+  to USB serial)
+
 ## v1.7.18 — 2026-10-20
 
 - **Fix: SDR Spectrum now really sweeps** — a library quirk retuned the
