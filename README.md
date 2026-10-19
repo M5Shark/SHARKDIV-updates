@@ -8,7 +8,7 @@ Official firmware releases for the **SHARKDIV** wireless multi-tool
 
 ## Latest release
 
-**v1.7.15** — see [Releases](https://github.com/M5Shark/SHARKDIV-updates/releases)
+**v1.7.16** — see [Releases](https://github.com/M5Shark/SHARKDIV-updates/releases)
 to download.
 
 | File | Use when |
@@ -25,7 +25,7 @@ to download.
 
 ```bash
 esptool.py --chip esp32s3 --port PORT --baud 115200 \
-  write_flash 0x0 SHARKDIV-firmware-v1.7.15-full-16MB.bin
+  write_flash 0x0 SHARKDIV-firmware-v1.7.16-full-16MB.bin
 ```
 
 Use **115200** baud — the USB bridge is not stable at higher speeds.
