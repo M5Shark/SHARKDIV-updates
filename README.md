@@ -1,3 +1,7 @@
+> **This repo is archived.** Everything — source, tools and all firmware
+> releases — now lives in one place:
+> **[M5Shark/SHARKDIV-firmware](https://github.com/M5Shark/SHARKDIV-firmware)**
+
 # SHARKDIV — Firmware Updates
 
 Official firmware releases for the **SHARKDIV** wireless multi-tool
