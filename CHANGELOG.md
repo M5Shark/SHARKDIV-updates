@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.7.12 — 2026-10-19
+
+- Boot mark replaced with the **ASCII Skull Jaw** art (the jaw-skull piece)
+  — shown on every theme
+
 ## v1.7.11 — 2026-10-19
 
 - **Fix: WiFi Radar and SSID Rotator did not open from a screen tap** —
